@@ -130,10 +130,11 @@ E:\Prog\Learn\DotNet\microservices\les-j\PlatformService\obj\Debug\net8.0\static
 E:\Prog\Learn\DotNet\microservices\les-j\PlatformService\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PlatformService.props
 E:\Prog\Learn\DotNet\microservices\les-j\PlatformService\obj\Debug\net8.0\staticwebassets.pack.json
 E:\Prog\Learn\DotNet\microservices\les-j\PlatformService\obj\Debug\net8.0\scopedcss\bundle\PlatformService.styles.css
-E:\Prog\Learn\DotNet\microservices\les-j\PlatformService\obj\Debug\net8.0\PlatformService.csproj.CopyComplete
 E:\Prog\Learn\DotNet\microservices\les-j\PlatformService\obj\Debug\net8.0\PlatformService.dll
 E:\Prog\Learn\DotNet\microservices\les-j\PlatformService\obj\Debug\net8.0\refint\PlatformService.dll
 E:\Prog\Learn\DotNet\microservices\les-j\PlatformService\obj\Debug\net8.0\PlatformService.pdb
 E:\Prog\Learn\DotNet\microservices\les-j\PlatformService\obj\Debug\net8.0\PlatformService.genruntimeconfig.cache
 E:\Prog\Learn\DotNet\microservices\les-j\PlatformService\obj\Debug\net8.0\ref\PlatformService.dll
 E:\Prog\Learn\DotNet\microservices\les-j\PlatformService\obj\Debug\net8.0\PlatformService.sourcelink.json
+E:\Prog\Learn\DotNet\microservices\les-j\PlatformService\bin\Debug\net8.0\appsettings.Production.json
+E:\Prog\Learn\DotNet\microservices\les-j\PlatformService\obj\Debug\net8.0\Platform.C7468C4A.Up2Date

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "CG3W3MGZDzlSRwl9oEvRom5jJJrbeOScBAfS8uT1uyLoEqn4b1nOm0VNKRYhDZ+nt/4d5UhvAYrlaBSvY8Q3iA==",
+  "dgSpecHash": "ej7AF69CYDPrKHULgQBQstAGDr0CoNjnPsJCE2q9MYqHuzD7xZ/FWY7SxsL4rrgDsYZBVYNVAabqCtzfWc9oNw==",
   "success": true,
   "projectFilePath": "E:\\Prog\\Learn\\DotNet\\microservices\\les-j\\PlatformService\\PlatformService.csproj",
   "expectedPackageFiles": [
